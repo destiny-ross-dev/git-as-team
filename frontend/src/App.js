@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import Thing from "./thing";
 
 function App() {
   return (
@@ -12,7 +11,6 @@ function App() {
           className="App-logo"
           src="https://www.stickpng.com/assets/thumbs/5845e755fb0b0755fa99d7f3.png"
         />
-        <Thing />
       </header>
     </div>
   );
